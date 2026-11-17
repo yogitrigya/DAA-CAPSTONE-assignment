@@ -1,0 +1,11 @@
+parcel_id,destination,weight_kg,priority_value,deadline_hrs,customer_name
+P001,Sector_14,4,85,2,Aalon
+P002,Cyber_Hub,6,110,4,Valon
+P003,Golf_Course_Rd,3,70,1,Salon
+P004,Sohna_Rd,8,140,5,Zalon
+P005,MG_Rd,5,95,3,Aalon
+P006,Udyog_Vihar,7,120,6,Kalon
+P007,Sector_49,2,60,2,Malon
+P008,DLF_Phase_3,9,150,4,Arlon
+P009,Palam_Vihar,4,80,3,Zalon
+P010,Subhash_Chowk,3,65,1,Dalon
